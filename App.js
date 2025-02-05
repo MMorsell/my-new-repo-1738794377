@@ -18,7 +18,7 @@ export default function App() {
         }}
       >
         <Drawer.Screen name="inbox" component={Home} />
-        <Drawer.Screen name="About" component={About} />
+        <Drawer.Screen name="About us" component={About} />
         <Drawer.Screen name="Contact" component={Contact} />
       </Drawer.Navigator>
     </NavigationContainer>
